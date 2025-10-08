@@ -7,7 +7,9 @@ const Layout = () => {
     return (
         <div>
             <Navber/>
-            <Outlet/>
+           <div className="max-w-screen-2xl mx-auto w-full px-3 md:px-6 lg:px-8 py-3 md:py-6 lg:py-8 flex-1">
+             <Outlet/>
+           </div>
             <Footer/>
         </div>
     );

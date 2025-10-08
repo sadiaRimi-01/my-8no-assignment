@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from "../../assets/logo.png"
+import logo from "../../public/assets/logo.png"
 import { Link } from 'react-router';
-import github from '../../assets/github.png'
+import github from '../../public/assets/github.png'
 
 const Navber = () => {
     return (

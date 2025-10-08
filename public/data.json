@@ -1,0 +1,218 @@
+[
+  {
+    "image": "../public/assets/demo-app (1).webp",
+    "title": "FlowTask: Focus for Productivity",
+    "companyName": "WorkSync Ltd.",
+    "id": 1001,
+    "description": "Manage daily tasks, set goals, and track your productivity with ease. This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest. A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you’ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere. For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you’re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
+    "size": 42,
+    "reviews": 3214,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 940 },
+      { "name": "5 star", "count": 1354 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (2).webp",
+    "title": "FitBuddy: Your Personal Fitness Coach",
+    "companyName": "Healthify Pro",
+    "id": 1002,
+    "description": "Your smart fitness tracker that helps you stay active and healthy every day. This app takes fitness tracking to the next level by combining workout planning, goal setting, and health insights. It supports daily activity tracking, calorie monitoring, heart rate syncing, and sleep analysis — all in one intuitive interface. Each workout session can be customized with rest intervals, reps, and timer integration, inspired by the Pomodoro method to balance effort and recovery. The clean design ensures users can focus purely on movement without distractions. Built-in motivational streaks and reminders help you maintain consistency. Whether you’re training for a marathon or just aiming to stay fit, FitBuddy keeps your journey organized, data-driven, and motivating. It provides personalized fitness analytics, so you can reflect on your progress and stay inspired to move forward.",
+    "size": 55,
+    "reviews": 8742,
+    "ratingAvg": 4.8,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 5442 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (3).webp",
+    "title": "NoteEase: Smart Notes & Productivity",
+    "companyName": "CloudCraft Inc.",
+    "id": 1003,
+    "description": "Simple and elegant note-taking app that syncs across all your devices. Designed for students, professionals, and creators, NoteEase combines powerful organization with a distraction-free interface. You can tag, categorize, and link notes effortlessly while tracking your writing sessions using a Pomodoro-style timer. The app helps users maintain focus during study or brainstorming sessions, showing detailed statistics on writing habits and focus durations. You can also integrate to-do lists directly within notes, add rich media, and collaborate in real-time. NoteEase’s calm interface ensures you stay organized, inspired, and productive without clutter. It’s more than just a notebook — it’s a complete productivity ecosystem that grows with your ideas.",
+    "size": 29,
+    "reviews": 4120,
+    "ratingAvg": 4.5,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 1670 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (4).webp",
+    "title": "PhotoGenix: AI Photo Editor",
+    "companyName": "PixelWorks",
+    "id": 1004,
+    "description": "Enhance and edit your photos with AI-powered filters and tools. PhotoGenix combines intelligent editing with workflow automation, making image enhancement faster and easier than ever. Users can edit in focused sessions using productivity timers, helping professionals manage editing time efficiently. The app provides detailed analytics about editing patterns and export habits, encouraging creativity without burnout. Its minimal design reduces distractions, allowing creators to stay immersed in their art. With integrated background sounds, smart presets, and real-time collaboration, PhotoGenix transforms editing into a focused, productive, and enjoyable experience.",
+    "size": 80,
+    "reviews": 9210,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 5530 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (5).webp",
+    "title": "EduTrack: Learn Smarter",
+    "companyName": "SmartLearn",
+    "id": 1005,
+    "description": "Online learning tracker for students and teachers with progress analytics. EduTrack offers an interactive way to stay on top of lessons, assignments, and progress reports. The app includes goal-setting tools, real-time feedback options, and productivity timers that help students manage study sessions using proven focus techniques. With personalized analytics and performance insights, both teachers and students can visualize learning trends and improve outcomes. Its smooth interface promotes calm concentration, helping users engage with learning materials efficiently. EduTrack makes education more data-driven, interactive, and focused than ever before.",
+    "size": 61,
+    "reviews": 5230,
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 1990 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (6).webp",
+    "title": "QuickFinance: Budget & Track",
+    "companyName": "MoneyPro Labs",
+    "id": 1006,
+    "description": "Smart budgeting and expense management app for personal finance control. QuickFinance helps users develop healthy spending habits and manage money without stress. The app uses a clean, focus-oriented design to make budgeting sessions productive and stress-free. You can set goals, monitor expenses, and track recurring bills while receiving real-time insights about your financial health. Using session timers, you can dedicate short, focused bursts to budgeting, making money management feel lighter and more consistent. It’s like a Pomodoro system for your finances — structured, mindful, and empowering.",
+    "size": 47,
+    "reviews": 3980,
+    "ratingAvg": 4.2,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 870 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (1).webp",
+    "title": "TravelGo: Plan Your Trips",
+    "companyName": "Explorer Co.",
+    "id": 1007,
+    "description": "Discover destinations, book hotels, and manage your trips easily. TravelGo enhances the trip planning process by combining research, itinerary management, and focus tools. Users can plan in short, structured bursts using productivity timers to reduce planning fatigue. The app integrates AI recommendations for attractions and stays, while analytics track spending, travel frequency, and preferences. Minimal design and soft tones make the experience peaceful and organized, ensuring travelers can plan better and stress less. Whether for business trips or vacations, TravelGo makes planning calm, visual, and efficient.",
+    "size": 72,
+    "reviews": 9820,
+    "ratingAvg": 4.9,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 7130 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (3).webp",
+    "title": "MusicVibe: Stream & Focus",
+    "companyName": "SoundStream",
+    "id": 1008,
+    "description": "Stream millions of songs and podcasts with personalized playlists. MusicVibe redefines how users enjoy sound — by blending entertainment with mindfulness. You can create focus playlists, track listening habits, and use built-in timers to accompany work or relaxation sessions. The calm UI helps listeners stay in flow without distractions. Detailed analytics show how music affects your focus sessions, mood, and productivity. Whether you want to energize your workouts, relax during study hours, or meditate, MusicVibe provides a seamless, immersive experience.",
+    "size": 65,
+    "reviews": 12000,
+    "ratingAvg": 4.8,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 8350 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (2).webp",
+    "title": "ChatLink: Team Messaging & Focus",
+    "companyName": "Connectify",
+    "id": 1009,
+    "description": "Fast, secure, and modern messaging app for teams and friends. ChatLink blends communication with focus — reducing noise through minimal notifications and smart muting modes. The app supports collaboration timers, helping teams organize work sprints and rest periods. You can track communication frequency and response times for better productivity insights. With end-to-end encryption, file sharing, and AI summaries, ChatLink ensures seamless, mindful communication without distraction. It’s a chat app designed for clarity, connection, and balance.",
+    "size": 52,
+    "reviews": 6720,
+    "ratingAvg": 4.4,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 3410 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (4).webp",
+    "title": "MindZen: Meditation & Relaxation",
+    "companyName": "CalmSpace",
+    "id": 1010,
+    "description": "Meditation and relaxation app for better focus and sleep. MindZen combines mindfulness exercises, breathing guides, and Pomodoro-style focus sessions to help users find balance. The app features calming background sounds, focus analytics, and habit tracking to encourage consistency. Notifications are gentle and minimal, ensuring users maintain peace during use. By integrating guided sessions, journaling tools, and progress tracking, MindZen provides a complete mental wellness experience that’s data-backed and soothing.",
+    "size": 35,
+    "reviews": 4012,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 1512 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (5).webp",
+    "title": "ShopSmart: Smart Online Deals",
+    "companyName": "Dealify",
+    "id": 1011,
+    "description": "Find the best online deals and compare prices across stores instantly. ShopSmart merges intelligent shopping with focus-friendly design. You can set shopping goals, organize wishlists, and use smart notifications that appear only during your chosen focus breaks. Built-in analytics track spending patterns and price trends, helping users make informed, mindful decisions. With ShopSmart, saving money becomes a structured, less stressful experience that rewards patience and timing.",
+    "size": 44,
+    "reviews": 5210,
+    "ratingAvg": 4.1,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1810 }
+    ]
+  },
+  {
+    "image": "../public/assets/demo-app (6).webp",
+    "title": "CookBook+: Recipes & Meal Planning",
+    "companyName": "ChefMate",
+    "id": 1012,
+    "description": "Discover, save, and share recipes with a smart grocery list feature. CookBook+ helps home chefs focus better on cooking by offering guided sessions with built-in timers and calming sounds. Users can organize ingredients, track nutritional values, and plan meals efficiently. The app also includes step-by-step cooking timers to maintain rhythm between tasks, ensuring a seamless cooking experience. With a minimal interface and motivational tracking, CookBook+ turns cooking into a focused, creative journey.",
+    "size": 58,
+    "reviews": 3870,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 1670 }
+    ]
+  }
+]
