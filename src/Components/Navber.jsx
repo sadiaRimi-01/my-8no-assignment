@@ -27,7 +27,7 @@ const Navber = () => {
                 <ul className="menu menu-horizontal gap-4 px-1">
                     <Link to='/' className='text-[#975BF0]' >Home </Link>
                     <Link to='/allapps'>Apps</Link>
-                    <Link>Installation</Link>
+                    <Link to='/installation'>Installation</Link>
                 </ul>
             </div>
             <div className="navbar-end">
