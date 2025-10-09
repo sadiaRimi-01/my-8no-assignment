@@ -1,9 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import toast, { Toaster } from 'react-hot-toast';
+import PageSpinner from '../Components/PageSpinner';
+import useAllApps from '../hooks/useAllApps';
 
 const Installation = () => {
     const [installation, setInstallation] = useState([]);
     const [sortOrder, setSortOrder] = useState(''); 
+     const {loading:initialLoading} =useAllApps()
+  
 
     useEffect(() => {
         const installed = JSON.parse(localStorage.getItem('installation')) || [];
@@ -21,6 +25,16 @@ const Installation = () => {
     const sortedInstallation = [...installation];
     if (sortOrder === 'High-Low') sortedInstallation.sort((a, b) => b.size - a.size);
     if (sortOrder === 'Low-High') sortedInstallation.sort((a, b) => a.size - b.size);
+    const [loading,setLoading]=useState(initialLoading)
+  useEffect(() => {
+    setLoading(true);
+    const timer = setTimeout(() => setLoading(false), 500); 
+    return () => clearTimeout(timer);
+  }, []); 
+
+  if (loading || initialLoading ) {
+    return <PageSpinner />;
+  }
 
     return (
         <div className="">

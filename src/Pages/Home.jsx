@@ -1,29 +1,47 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link} from 'react-router';
 import AppCard from '../Components/AppCard';
 import Navber from '../Components/Navber';
 import Banner from '../Components/Banner';
 import useAllApps from '../hooks/useAllApps';
+import SkeletonLoader from '../Components/SkeletonLoader';
+import PageSpinner from '../Components/PageSpinner';
 
 const Home = () => {
   
-  const {appCards} =useAllApps()
+  const {appCards, loading:initialLoading} =useAllApps()
   
   const featuredApps =appCards.slice(0,8)
   console.log(appCards);
+  const [loading,setLoading]=useState(initialLoading)
+  useEffect(() => {
+    setLoading(true);
+    const timer = setTimeout(() => setLoading(false), 500); 
+    return () => clearTimeout(timer);
+  }, []); 
+
+  if (loading || initialLoading ) {
+    return <PageSpinner />;
+  }
 
   return (
     <div className="">
+      
        <Banner></Banner>
         <div className="text-center justify-center mb-2 ">
             <h1 className='text-[#001931] font-bold text-[40px]'>Trending Apps</h1>
             <p className='text-[#627382] text-[20px] '>Explore All Trending Apps on the Market developed by us</p>
         </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {featuredApps.map(app => (
+        
+      {loading? <SkeletonLoader/>:
+      (
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        {
+        featuredApps.map(app => (
           <AppCard key={app.id} app={app} />
         ))}
       </div>
+      )}
       <div className="text-center justify-center mt-6">
         <Link to='/allapps' className='btn text-white w-[145px] p-2  bg-linear-to-bl from-violet-500 to-fuchsia-500'>Show All</Link>
       </div>
