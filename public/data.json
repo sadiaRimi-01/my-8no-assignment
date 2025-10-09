@@ -1,6 +1,6 @@
 [
   {
-    "image": "../public/assets/demo-app (1).webp",
+    "image": "/assets/demo-app (1).webp",
     "title": "FlowTask: Focus for Productivity",
     "companyName": "WorkSync Ltd.",
     "id": 1001,
@@ -10,15 +10,30 @@
     "ratingAvg": 4.6,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 240 },
-      { "name": "3 star", "count": 560 },
-      { "name": "4 star", "count": 940 },
-      { "name": "5 star", "count": 1354 }
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 240
+      },
+      {
+        "name": "3 star",
+        "count": 560
+      },
+      {
+        "name": "4 star",
+        "count": 940
+      },
+      {
+        "name": "5 star",
+        "count": 1354
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (2).webp",
+    "image": "/assets/demo-app (2).webp",
     "title": "FitBuddy: Your Personal Fitness Coach",
     "companyName": "Healthify Pro",
     "id": 1002,
@@ -28,15 +43,30 @@
     "ratingAvg": 4.8,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 420 },
-      { "name": "3 star", "count": 780 },
-      { "name": "4 star", "count": 1900 },
-      { "name": "5 star", "count": 5442 }
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 420
+      },
+      {
+        "name": "3 star",
+        "count": 780
+      },
+      {
+        "name": "4 star",
+        "count": 1900
+      },
+      {
+        "name": "5 star",
+        "count": 5442
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (3).webp",
+    "image": "/assets/demo-app (3).webp",
     "title": "NoteEase: Smart Notes & Productivity",
     "companyName": "CloudCraft Inc.",
     "id": 1003,
@@ -46,15 +76,30 @@
     "ratingAvg": 4.5,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 700 },
-      { "name": "4 star", "count": 1300 },
-      { "name": "5 star", "count": 1670 }
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 1300
+      },
+      {
+        "name": "5 star",
+        "count": 1670
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (4).webp",
+    "image": "/assets/demo-app (4).webp",
     "title": "PhotoGenix: AI Photo Editor",
     "companyName": "PixelWorks",
     "id": 1004,
@@ -64,15 +109,30 @@
     "ratingAvg": 4.7,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 480 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 5530 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 480
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2100
+      },
+      {
+        "name": "5 star",
+        "count": 5530
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (5).webp",
+    "image": "/assets/demo-app (5).webp",
     "title": "EduTrack: Learn Smarter",
     "companyName": "SmartLearn",
     "id": 1005,
@@ -82,15 +142,30 @@
     "ratingAvg": 4.3,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 340 },
-      { "name": "2 star", "count": 520 },
-      { "name": "3 star", "count": 880 },
-      { "name": "4 star", "count": 1500 },
-      { "name": "5 star", "count": 1990 }
+      {
+        "name": "1 star",
+        "count": 340
+      },
+      {
+        "name": "2 star",
+        "count": 520
+      },
+      {
+        "name": "3 star",
+        "count": 880
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 1990
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (6).webp",
+    "image": "/assets/demo-app (6).webp",
     "title": "QuickFinance: Budget & Track",
     "companyName": "MoneyPro Labs",
     "id": 1006,
@@ -100,15 +175,30 @@
     "ratingAvg": 4.2,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 420 },
-      { "name": "2 star", "count": 510 },
-      { "name": "3 star", "count": 780 },
-      { "name": "4 star", "count": 1400 },
-      { "name": "5 star", "count": 870 }
+      {
+        "name": "1 star",
+        "count": 420
+      },
+      {
+        "name": "2 star",
+        "count": 510
+      },
+      {
+        "name": "3 star",
+        "count": 780
+      },
+      {
+        "name": "4 star",
+        "count": 1400
+      },
+      {
+        "name": "5 star",
+        "count": 870
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (1).webp",
+    "image": "/assets/demo-app (1).webp",
     "title": "TravelGo: Plan Your Trips",
     "companyName": "Explorer Co.",
     "id": 1007,
@@ -118,15 +208,30 @@
     "ratingAvg": 4.9,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 250 },
-      { "name": "3 star", "count": 420 },
-      { "name": "4 star", "count": 1900 },
-      { "name": "5 star", "count": 7130 }
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 420
+      },
+      {
+        "name": "4 star",
+        "count": 1900
+      },
+      {
+        "name": "5 star",
+        "count": 7130
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (3).webp",
+    "image": "/assets/demo-app (3).webp",
     "title": "MusicVibe: Stream & Focus",
     "companyName": "SoundStream",
     "id": 1008,
@@ -136,15 +241,30 @@
     "ratingAvg": 4.8,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 350 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 700 },
-      { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 8350 }
+      {
+        "name": "1 star",
+        "count": 350
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 2100
+      },
+      {
+        "name": "5 star",
+        "count": 8350
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (2).webp",
+    "image": "/assets/demo-app (2).webp",
     "title": "ChatLink: Team Messaging & Focus",
     "companyName": "Connectify",
     "id": 1009,
@@ -154,15 +274,30 @@
     "ratingAvg": 4.4,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 240 },
-      { "name": "2 star", "count": 480 },
-      { "name": "3 star", "count": 890 },
-      { "name": "4 star", "count": 1700 },
-      { "name": "5 star", "count": 3410 }
+      {
+        "name": "1 star",
+        "count": 240
+      },
+      {
+        "name": "2 star",
+        "count": 480
+      },
+      {
+        "name": "3 star",
+        "count": 890
+      },
+      {
+        "name": "4 star",
+        "count": 1700
+      },
+      {
+        "name": "5 star",
+        "count": 3410
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (4).webp",
+    "image": "/assets/demo-app (4).webp",
     "title": "MindZen: Meditation & Relaxation",
     "companyName": "CalmSpace",
     "id": 1010,
@@ -172,15 +307,30 @@
     "ratingAvg": 4.6,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 160 },
-      { "name": "2 star", "count": 240 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 1500 },
-      { "name": "5 star", "count": 1512 }
+      {
+        "name": "1 star",
+        "count": 160
+      },
+      {
+        "name": "2 star",
+        "count": 240
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 1512
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (5).webp",
+    "image": "/assets/demo-app (5).webp",
     "title": "ShopSmart: Smart Online Deals",
     "companyName": "Dealify",
     "id": 1011,
@@ -190,15 +340,30 @@
     "ratingAvg": 4.1,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 520 },
-      { "name": "3 star", "count": 880 },
-      { "name": "4 star", "count": 1600 },
-      { "name": "5 star", "count": 1810 }
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 520
+      },
+      {
+        "name": "3 star",
+        "count": 880
+      },
+      {
+        "name": "4 star",
+        "count": 1600
+      },
+      {
+        "name": "5 star",
+        "count": 1810
+      }
     ]
   },
   {
-    "image": "../public/assets/demo-app (6).webp",
+    "image": "/assets/demo-app (6).webp",
     "title": "CookBook+: Recipes & Meal Planning",
     "companyName": "ChefMate",
     "id": 1012,
@@ -208,11 +373,26 @@
     "ratingAvg": 4.7,
     "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 140 },
-      { "name": "2 star", "count": 260 },
-      { "name": "3 star", "count": 500 },
-      { "name": "4 star", "count": 1300 },
-      { "name": "5 star", "count": 1670 }
+      {
+        "name": "1 star",
+        "count": 140
+      },
+      {
+        "name": "2 star",
+        "count": 260
+      },
+      {
+        "name": "3 star",
+        "count": 500
+      },
+      {
+        "name": "4 star",
+        "count": 1300
+      },
+      {
+        "name": "5 star",
+        "count": 1670
+      }
     ]
   }
 ]
